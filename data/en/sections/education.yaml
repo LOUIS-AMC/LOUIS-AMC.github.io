@@ -15,7 +15,7 @@ degrees:
   timeframe: 2020-2024
   institution:
     name: University of California, Irvine
-    url: "https://uci.edu/"
+    url: "https://www.uci.edu/"
   grade: #(optional)
     scale: GPA
     achieved: 3.83
