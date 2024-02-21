@@ -23,10 +23,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Conducted comprehensive analysis of student behavioral patterns within the Canvas Learning Management System, identifying and refining over 150 unique action patterns to enhance user engagement and educational outcomes
+    - Performed in-depth analysis of student behavioral patterns within the Canvas Learning Management System, refining over 150 unique action patterns in student time and action counts to lay the groundwork for future machine learning investigations
     - Integrated 3 distinct schemas within AWS Redshift, extracting 80K+ rows of student behavior data categorized by day and hourly intervals; facilitated data-driven decision-making through trend analysis and behavioral pattern identification
-    - Implemented advanced machine learning models, including Random Forest and XGBoost, using RStudio to evaluate student continuity in a three-course sequence, achieving a ROC score greater than 0.60 for specific courses
-    - Engaged in a collaborative effort with fellow lab members to consistently deliver high-quality weekly presentations
+    - Implemented advanced machine learning models, including Random Forest and XGBoost, to evaluate student continuity in a 3-course sequence, achieving a ROC score greater than 0.65 for specific courses using RStudio’s pip operator and step function
+    - Delivered high-quality weekly PowerPoint presentations through Zoom, summarizing research findings for clarity, directly influencing key project decisions such as selecting predictors for fine-tuning and troubleshooting the machine learning models
   # - designation: Junior Software Engineer
   #   start: Nov 2017
   #   end: Oct 2019
@@ -44,9 +44,10 @@ experiences:
     start: September 2022
     end: June 2023
     responsibilities:
-    - Streamlined data management processes by consolidating MIMIC-III dataset using Python's Pandas library and Google Cloud Platform; reduced data processing time by 50% and increased efficiency of medical data analysis
-    - Automated medical term extraction using NLTK's POS tagging and other techniques to analyze 14K+ medical terms
-    - Visualized the frequency distribution of diagnosis and prescription records using WordCloud to find the most impactful disease and medications
+    - Compiled and integrated the MIMIC-III dataset, optimizing data management workflows to achieve 50% reduction in data processing time and increased efficiency of medical data analysis using Python's pandas library and Google Cloud Platform
+    - Developed an advanced automation framework to extract and analyze 14,000+ medical terms to enhance clinical documentation accuracy and minimize error rates using NLTK's POS (part of speech) tagging
+    - Visualized and presented frequency distribution of diagnosis and prescription records to identify 20 clusters of diseases and medications pairings, guiding informed decision-making using WordCloud and K-Means Clustering
+
 
 - company:
     name: Greendot Corporation
@@ -57,6 +58,6 @@ experiences:
     start: July 2023
     end: September 2023
     responsibilities:
-    - Monitored 20+ running jobs with an average of 10+ sub tasks to achieve a success rate of 99% via Informatica under the database engineering team
-    - Collaborated with 5+ Database Engineering Team members to sync up data model change from OLTP to Amazon Redshift via Jira 
-    - •	Streamlined a standardized machine learning pipeline on company confluence page to analyze customer credit rating with a F1-score of 0.81; delivered a PowerPoint presentation to the executive members of the data team
+    - Tracked and managed 20+ running jobs with an average of 10+ sub-tasks, achieving success rate of 99% via Informatica’s monitor service in collaboration with the database engineering team
+    - Performed data migration to Amazon Redshift utilizing Informatica’s mapping task, improving query performance and reducing migration time in partnership with 5+ Database Engineering team members through Jira’s point assignment system
+    - Built and optimized a machine standardized machine learning pipeline using Jupyter Notebook to analyze customer credit ratings, achieving an F1-score 0.81, and documented it on the company’s Confluence page for accessibility
